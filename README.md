@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate and versatile Software Engineer with expertise in MERN stack development. My skills span Bootstrap, CSS, Express, HTML, MongoDB, React, React Native, and Tailwind CSS. I thrive on overcoming complex challenges and bring a strong foundation in C and Java to my skill set. My proficiency in React Native expands my capabilities to mobile app development, enabling seamless user experiences.
+I am a passionate and versatile Software Engineer with expertise in MERN stack development. My skills span Bootstrap, CSS, Express, HTML, MongoDB, React, React Native, Node.js, JavaScript, and Tailwind CSS. I thrive on overcoming complex challenges and bring a strong foundation in C and Java to my skill set. My proficiency in React Native expands my capabilities to mobile app development, enabling seamless user experiences.
 
 ## 🛠️ Technologies & Tools
 
@@ -26,6 +26,8 @@ I am a passionate and versatile Software Engineer with expertise in MERN stack d
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -37,8 +39,11 @@ I am a passionate and versatile Software Engineer with expertise in MERN stack d
 
 ## 📫 Let's Collaborate
 
+🔗 **GitHub**: [github.com/HamzaShafqat098](https://github.com/HamzaShafqat098)  
 📧 **Email**: [hamzashafqat098@gmail.com](mailto:hamzashafqat098@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/hamzashafqat](https://www.linkedin.com/in/hamzashafqat/)  
 🐦 **Twitter**: [@ch_hamzashafqat](https://twitter.com/ch_hamzashafqat)
 
 Feel free to reach out for collaboration, project ideas, or tech discussions. Let's innovate and make a difference in the world of software development together!
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=HamzaShafqat098.HamzaShafqat098)
