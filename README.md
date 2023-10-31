@@ -3,7 +3,7 @@
 # Muhammad Hamza
 **Passionate Software Engineer | MERN Stack Developer | React Native Enthusiast**
 
-🚀 Crafting exceptional web and mobile applications that exceed expectations. 🚀
+Crafting exceptional web and mobile applications that exceed expectations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hamzashafqat/) 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&labelColor=blue)](https://twitter.com/ch_hamzashafqat)
@@ -45,5 +45,3 @@ I am a passionate and versatile Software Engineer with expertise in MERN stack d
 🐦 **Twitter**: [@ch_hamzashafqat](https://twitter.com/ch_hamzashafqat)
 
 Feel free to reach out for collaboration, project ideas, or tech discussions. Let's innovate and make a difference in the world of software development together!
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=HamzaShafqat098.HamzaShafqat098)
